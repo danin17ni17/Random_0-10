@@ -1,0 +1,5 @@
+c:\users\даниил\documents\visual studio 2012\Projects\forExp\forExp\bin\Debug\forExp.exe.config
+c:\users\даниил\documents\visual studio 2012\Projects\forExp\forExp\bin\Debug\forExp.exe
+c:\users\даниил\documents\visual studio 2012\Projects\forExp\forExp\bin\Debug\forExp.pdb
+c:\users\даниил\documents\visual studio 2012\Projects\forExp\forExp\obj\Debug\forExp.exe
+c:\users\даниил\documents\visual studio 2012\Projects\forExp\forExp\obj\Debug\forExp.pdb

@@ -1,0 +1,12 @@
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\forExp\forExp\bin\Debug\Random1-10.exe.config
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\forExp\forExp\obj\Debug\Random110.csprojResolveAssemblyReference.cache
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\forExp\forExp\bin\Debug\Random1-10.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\forExp\forExp\bin\Debug\Random1-10.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\forExp\forExp\obj\Debug\Random1-10.exe
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\forExp\forExp\obj\Debug\Random1-10.pdb
+C:\myC#\Projects(2)\forExp\forExp\bin\Debug\Random1-10.exe.config
+C:\myC#\Projects(2)\forExp\forExp\obj\Debug\Random1-10.exe
+C:\myC#\Projects(2)\forExp\forExp\obj\Debug\Random1-10.pdb
+C:\myC#\Projects(2)\forExp\forExp\bin\Debug\Random1-10.exe
+C:\myC#\Projects(2)\forExp\forExp\bin\Debug\Random1-10.pdb
+C:\myC#\Projects(2)\forExp\forExp\obj\Debug\Random110.csprojResolveAssemblyReference.cache
